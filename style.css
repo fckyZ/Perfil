@@ -9,7 +9,11 @@
 body {
     background-image: url(/src/projeto6/Preto\,_branco\,_curva_fluida\,_abstrato\,_design\ Papel\ de\ parede__1920x1080[10wallpaper.com].jpg);
 }
-
+@media (min-width: 992px){
+    body{
+    background-image: url(/src/projeto7/Black_white_flowing_curve_abstract_design_1366x768\ \(1\).jpg)
+}
+}
 main {
     display: flex;
     justify-content: center;
